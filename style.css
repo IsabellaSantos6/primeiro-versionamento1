@@ -29,8 +29,8 @@ main{
 
 #titulo{
     text-align: center;
-    color: blue;
-    font-size: 50px;
+    color:#00c7ab;
+    font-size: 35px;
 }
 
 .texto{
@@ -39,7 +39,6 @@ main{
     border-radius: 10px;
     border: none;
     outline: none;
-    background-color: blue;
 }
 
 .input{
