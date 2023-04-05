@@ -38,6 +38,7 @@ main{
     border-radius: 10px;
     border: none;
     outline: none;
+    background-color: blue;
 }
 
 .input{
